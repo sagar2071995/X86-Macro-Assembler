@@ -1,2 +1,5 @@
 # X86-Macro-Assembler
-It is a programme that store the defination of macroes that are define in assembly programme and after  execution of this code its replace the defination of macroes at its call expression.   (Implimanted in Python language)
+This is the programme files to create MNT(macro name table) & MDT(macro defination table)
+In this progrmmes i write code to store the information of macroes from tha asssembly code.
+and after that when assembly programme excute that time when macro call is occured then defination of this
+macro replace by our tables.
